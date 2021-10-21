@@ -12,7 +12,7 @@ module.exports = {
     return [
       {
         source: '/:slug',
-        destination: 'https://rk-shop.webflow.io/:slug',
+        destination: 'https://client-first.webflow.io/:slug',
       },
     ]
   },
