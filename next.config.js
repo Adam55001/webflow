@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: '/',
-        destination: 'https://pf-agri.webflow.io',
+        destination: 'https://uv-app3.adam55002.repl.co',
       },
       {
         source: '/:slug',
